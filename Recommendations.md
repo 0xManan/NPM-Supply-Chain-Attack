@@ -1,4 +1,4 @@
-Recommendations for Developers:
+#Recommendations for Developers:
 
 Audit package-lock.json and node_modules for affected packages (e.g., debug@4.4.2, chalk@5.6.1, ansi-styles@6.2.2—full list in quick check command below).
 Run npm audit and security scans.
@@ -14,7 +14,7 @@ Quick NPM check: npm ls ansi-styles debug chalk supports-color strip-ansi ansi-r
 If compromised, consider resetting your OS as a precaution—treat the machine as potentially fried.
 Implement dependency monitoring (e.g., via @guardrailai, coming soon).
 
-Recommendations for Crypto Users:
+#Recommendations for Crypto Users:
 
 Hardware wallet users: Scrutinize every transaction detail before signing.
 Software wallet users: Avoid all on-chain transactions for the next few days; verify recipient addresses meticulously if unavoidable.
