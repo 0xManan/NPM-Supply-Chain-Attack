@@ -1,4 +1,4 @@
-#Full list of attacker addresses (EVM-focused, but multi-chain capable)
+#Full list of attacker-addresses (EVM-focused, but multi-chain capable)
 
 0xFc4a4858bafef54D1b1d7697bfb5c52F4c166976
 0xa29eeFb3f21Dc8FA8bce065Db4f4354AA683c024
