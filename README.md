@@ -43,3 +43,6 @@ This repository provides key resources extracted from threat research (e.g., fro
 - **General Advice**: Implement dependency monitoring (e.g., via tools like @guardrailai). If compromised, reset your OS. For crypto ops, avoid transactions for a few days and double-check everything.
 
 This repo highlights the fragility of open-source supply chains. Contributions welcome—fork and PR with updates or additional tools.
+
+## Thanks
+Huge Appreciation to [@officer_cia](https://x.com/officer_cia) for keeping posted and monitoring threats. This repository is inspired by his tweets and resources he shared all along.
